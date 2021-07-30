@@ -6,7 +6,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center"  height="50" width="60" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center"  height="30" width="40" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
